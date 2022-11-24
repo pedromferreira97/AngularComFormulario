@@ -1,0 +1,10 @@
+{
+  "cliente": [{
+      "cpf": "058.316.277.05",
+      "nome": "Antonio Martins",
+      "data": "20/06/1996",
+      "estado": "Solteiro",
+      "filhos": "0",
+      "quantidade": "10"
+    }]
+}
